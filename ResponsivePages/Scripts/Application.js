@@ -6,7 +6,7 @@ function populateData() {
 $(function () {
 
     populateData();
-
+  var k=1;
     //bind events
     $("#btnSort").click(performSort);
     $("#btnChangeBGColor").click(changeBackgroundColor);
