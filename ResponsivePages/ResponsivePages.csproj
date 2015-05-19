@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index.html" />
     <Content Include="ResponsivePage.html" />
     <Content Include="Scripts\Application.js" />
     <Content Include="Scripts\ResponsiveSort.js" />
